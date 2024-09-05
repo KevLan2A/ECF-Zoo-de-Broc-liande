@@ -1,14 +1,12 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
-// Custom-theme.scss
 
 
-// Include any default variable overrides here (though functions won't be available)
-$primary: #A2D760;
+$primary: #82C033;
 $secondary: #D3CDB6;
-$dark: #56654A;
+$dark: #55763A;
 $black: #32312B;
 $font-family-sans-serif: 'Montserrat', sans-serif !default;
 $font-family-serif: 'Hind Madurai' ,serif !default; 
 
 
 
+@import "../lib/bootstrap/scss/bootstrap.scss";
